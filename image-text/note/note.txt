@@ -1,0 +1,53 @@
+Instrutora
+* Sou formada em Gestão da Tecnologia de Informação e tecnóloga de informatica
+* 8 meses de experiência em desenvolvimento de sistemas
+* Atualmente trabalho na Union Digital IT, uma empresa em Jundiaí
+Como estudar programação
+O que é Python
+Características Python
+Como acompanhar o curso
+- Aulas teóricas e depois partirmos para a prática
+
+* React é uma biblioteca JavaScript para criar interfaces de usuario, é baseado em componentes que gerenciam seus 
+próprios estados, e que quando combinados sao capazes de criar interfaces complexas.
+* React cria seus componentes utilizando JSX (JavaScript e XML)
+* React utiliza o Babel, que é um compilador JavaScript, para
+converter os arquivos JSX em um formato que pode ser
+renderizado pelos mais diversos navegadores.
+
+
+
+
+O que é bug?
+
+É entendido como um “erro inesperado”. A origem dessa
+palavra remete à época da 1ª Guerra mundial e
+acabou se tornando uma grande curiosidade que
+faz parte da história da programação — e com
+protagonismo feminino.
+
+Hoje nós entendemos o que é bug como um
+erro inesperado ao executar um programa ou
+um comando dentro de um site, por exemplo.
+porém, sua história está muito mais ligada a um
+hardware do que com um software.
+
+O bug é uma palavra inglesa que signífica inseto e
+e os primeiros computadores do
+mundo não eram PCs — personal computers.
+
+
+
+
+Diferença entre Back-End e Front-End com Mario Souto
+Neste vídeo, Paulo Silveira e Mario Souto explicam como funciona
+o universo da programação tanto para Devs Back-end, quanto
+Front-end.
+
+Como fazer um bom portfólio?
+Já que a ideia é começar o seu portfólio, que tal aprender qual é
+
+a melhor forma de fazer isso? Paulo Silveira e Diogo Pires contam
+aqui sobre essa ferramenta essencial para todos os
+níveis profissionais.
+
